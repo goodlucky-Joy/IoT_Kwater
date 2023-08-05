@@ -19,8 +19,8 @@ DHT dht(DHTPIN, DHTTYPE);
 BH1750 lightMeter;
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
-const char *ssid = "Kwater";  
-const char *password = "Academy#7114";
+const char *ssid = "myWifi";  
+const char *password = "myPass";
 
 WiFiUDP udp;
 NTPClient timeClient(udp, "kr.pool.ntp.org", 32400, 900000);
