@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 
 /** 인터넷 공유기의 WiFi 이름과 비밀번호를 입력합니다 */
-const char* ssid = "mySSID";
-const char* password = "myPW";
+const char* ssid = "myWifi";
+const char* password = "myPass";
 
 void setup() {
   Serial.begin(9600);
