@@ -25,4 +25,4 @@
 #### C:\Program Files\mosquitto>mosquitto_pub -t test -m "Hi" -p 1883 -h myMQTTserverIP -u myMQTTid -P myMQTTpass
 #### C:\Program Files\mosquitto>mosquitto_pub -t temp -m “34.2" -p 1883 -h myMQTTserverIP -u myMQTTid -P myMQTTpass
 #### C:\Program Files\mosquitto>mosquitto_pub -t test -m "Hola!" -p 1883 -h myMQTTserverIP -u myMQTTid -P myMQTTpass
-######################################################################################
+
