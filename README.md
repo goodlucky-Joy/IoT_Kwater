@@ -12,10 +12,10 @@
 ######################################################################################
 ### https://mosquitto.org/download
 #### cd C:\Program Files\mosquitto
-#### mosquitto.conf
 ---
+#### mosquitto.conf
 ##### #allow_anonymous true
 ##### #listener 1883
 ---
-
+#### C:\Program Files\mosquitto>mosquitto -c mosquitto.conf –v
 ######################################################################################
