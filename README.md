@@ -13,8 +13,7 @@
 ### https://mosquitto.org/download
 #### cd C:\Program Files\mosquitto
 #### mosquitto.conf
-<div style="background-color: #f2f2f2; padding: 10px;">
-    <p>allow anonymous true</p>
-    <p>listener 1883</p>
-</div>
+##### allow_anonymous true
+##### listener 1883
+
 ######################################################################################
