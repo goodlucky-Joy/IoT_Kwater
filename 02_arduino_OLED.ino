@@ -32,7 +32,9 @@ void setup()   {
 }
 
 int count = 0;
-void loop() {  
+void loop() { 
+
+  /** OLED 에 변수 값 출력 */
   display.clearDisplay();
   display.setCursor(0,0);                         // 128*64 Pixels
   display.println(count++);
