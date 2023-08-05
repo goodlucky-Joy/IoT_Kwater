@@ -1,3 +1,6 @@
+/****** Install Adafruit SSD1306 by Adafruit Library ******/
+/**********************************************************/
+
 #include "DHT.h"
 #include <SPI.h>
 #include <Wire.h>
