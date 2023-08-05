@@ -1,7 +1,6 @@
-### InfluxDB 설치 및 테스트
+### InfluxDB 설치 및 테스트 for Windows
 ---
-###[ [https://portal](https://docs.influxdata.com/influxdb/v2.7/install/?t=Windows)](https://docs.influxdata.com/influxdb/v2.7/install/?t=Windows)
-
+### [https://docs.influxdata.com/influxdb/v2.7/install/?t=Windows]
 #### 압축풀어서 C:\Program Files\InfluxData\influxdb 폴더에 복사 (파일탐색기)
 ---
 #### 관리자모드 PowerShell>cd c:\users\a\downloads
