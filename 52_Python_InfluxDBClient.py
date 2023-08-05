@@ -12,7 +12,7 @@ bucket = "DB_BUCKET"
 client = InfluxDBClient(url=url, token=token)
 
 # 데이터 포인트 생성
-point = Point("home").tag("room", "kitchen").field("temperature", 25.5).field("humidity", 60).time(datetime.utcnow())
+point = Point("home").tag("room", "kitchen").field("temp", 25.5).field("hum", 60).field("co",3i).time(datetime.utcnow())
 
 # 데이터 쓰기
 write_api = client.write_api(write_options=SYNCHRONOUS)
