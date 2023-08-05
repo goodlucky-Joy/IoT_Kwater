@@ -1,7 +1,7 @@
 ## IoT_Kwater
 # K-water 사물인터넷(IoT)기술과 아두이노, MQTT, InfluxDB 실습 
-# 2023.8.7
-# Joy H Kang
+### 2023.8.7
+### Joy H Kang
 
 ######################################################################################
 # 1. 환경설정(Preferences) > 추가적인 보드매니저 URLs(Additional boards manager URLS)
