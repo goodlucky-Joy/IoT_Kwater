@@ -1,5 +1,7 @@
-/****** Install Adafruit SSD1306 by Adafruit Library ******/
-/**********************************************************/
+/********************************************************************/
+/****** Install DHT sensor library by Adafruit (Install all!!) ******/
+/****** Install Adafruit SSD1306 by Adafruit Library           ******/
+/********************************************************************/
 
 #include "DHT.h"
 #include <SPI.h>
