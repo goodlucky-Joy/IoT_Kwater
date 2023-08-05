@@ -21,3 +21,5 @@
 ---
 #### 관리자모드 PowerShell> C:\Program Files\InfluxData\influx> ./influx config create --config-name default --host-url http://localhost:8086 --org MY_ORG --token MY_TOKEN
 C:\Program Files\InfluxData\influx> ./influx auth create --all-access --host http://localhost:8086 --org MY_ORG --token MY_TOKEN 
+
+C:\Program Files\InfluxData\influx> ./influx bucket create --name test-bucket
