@@ -10,3 +10,11 @@
 #### 4. 툴(Tool) > 포트(Port) > 연결포트(COMX) 선택
 #### 5. 컴파일(Compile), 업로드(Upload)
 ######################################################################################
+### https://mosquitto.org/download
+#### cd C:\Program Files\mosquitto
+#### mosquitto.conf
+####<div style="background-color: #f2f2f2; padding: 10px;">
+####    <p>allow anonymous true</p>
+####    <p>listener 1883</p>
+####</div>
+######################################################################################
