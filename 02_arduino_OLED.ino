@@ -1,3 +1,8 @@
+/**********************************************************/
+/******         SSD1306 OLED (128x64 , 0x3C )        ******/
+/****** Install Adafruit SSD1306 by Adafruit Library ******/
+/**********************************************************/
+
 #include <SPI.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
