@@ -32,7 +32,7 @@ const char* mqttServer = "myMQTTserverIP";
 const int mqttPort = 1883;
 const char* mqttUser = "myMQTTid";
 const char* mqttPassword = "myMQTTpass";
-String water_ch = "kwater/kwater01/"; //MQTT Topic : water_ch/temp , water_ch/humid , water_ch/light
+String water_ch = "kwater01/"; //MQTT Topic : water_ch/temp , water_ch/humid , water_ch/light
 
 PubSubClient client(espClient);
 
